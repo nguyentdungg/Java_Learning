@@ -15,5 +15,7 @@ public class Bai01 {
         String GPA = scanner.nextLine();
 
         System.out.println("Name is : " + name + " GPA = " + GPA);
+
+        scanner.close();
     }
 }

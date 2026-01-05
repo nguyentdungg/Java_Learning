@@ -12,5 +12,7 @@ public class Bai03 {
         int canh = scanner.nextInt();
 
         System.out.println("Thể tích của hình lập phương = " + Math.pow(canh, 3));
+
+        scanner.close();
     }
 }
