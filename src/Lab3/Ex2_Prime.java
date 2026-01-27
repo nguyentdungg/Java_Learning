@@ -6,7 +6,7 @@ public class Ex2_Prime {
     static void main() {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Nhập số nguyên: ");
+        System.out.print("Nhập số nguyên: ");
         int a = scanner.nextInt();
 
         boolean check = true;
